@@ -1,2 +1,2 @@
-# graphql-react-mlab
+# Graphql-React-mLab
 GraphQL project
